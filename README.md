@@ -14,13 +14,13 @@ I am a proficient Frontend Developer based in Dhaka, Bangladesh, with expertise 
 
 ### What my skill set looks like?
 
-### 📜 Languages
+#### 📜 Languages
 - JavaScript (ES6+)
 - TypeScript
 - HTML
 - CSS
 
-### 🔬 Frameworks/Libraries 
+#### 🔬 Frameworks/Libraries 
 - React.js
 - Redux
 - Next.js
@@ -30,11 +30,11 @@ I am a proficient Frontend Developer based in Dhaka, Bangladesh, with expertise 
 - Ant Design
 - Tailwind CSS
 
-### 💾 Databases  
+#### 💾 Databases  
 - MongoDB
 - Firebase
 
-### 📁 Tools 
+#### 📁 Tools 
 - Git
 - GitHub
 - VS Code
