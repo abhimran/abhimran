@@ -9,7 +9,7 @@ I am a proficient Frontend Developer based in Dhaka, Bangladesh, with expertise 
 - 👨‍💻 My tech stack includes HTML, CSS, and JavaScript.
 - 🌍 I'm mostly active on Linkedin and the React community.
 - 📚 I'm currently learning about Backend technologies.
-- 👯 I'm looking to collaborate on React/React Native projects.
+- 👯 I'm looking to collaborate on React/Next Js projects.
 
 
 ### What my skill set looks like?
