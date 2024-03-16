@@ -54,8 +54,25 @@ I am a proficient Frontend Developer based in Dhaka, Bangladesh, with expertise 
 
 ### Companies I've worked for
 
+#### 👨‍💻 Software Specialist
+**Software Specialist** _(Nov 2023 - Present)_
+
+- Led the development of responsive, secure fintech applications, leveraging React.js and Next.js. Enhanced user interfaces with dynamic, interactive financial dashboards to display critical data, fostering user engagement.
+- Curated a reusable code library for fintech modules, boosting efficiency and UI consistency. Adopted PWA strategies to improve application performance in low-connectivity environments, ensuring seamless offline access.
+- Pioneered the integration of AI-based face recognition for robust user enrollment and authentication within the fintech ecosystem. This initiative not only enhanced security measures but also streamlined the user verification process, aligning with privacy standards.
+- Collaborated closely with data and backend teams to implement these advanced features, contributing to a secure, intuitive user experience in financial transactions and operations.
+
+#### 👨‍💻 Associate Software Engineer
+**Apsis Solutions Ltd.** _(May 2023 - November 2023)_
+
+- Developed custom user interfaces for CRM systems using React js and Next js focusing on user experience and ease of use.
+- Implemented CRM dashboard with dynamic and interactive visualizations to present customer data.
+- Built and maintained reusable code libraries for future use, improving development efficiency and consistency.
+- Utilized progressive web app (PWA) techniques to enable offline functionality and improve load time for the CRM system.
+- Worked closely with the data team to visualize customer analytics on CRM, enabling data-driven business decisions.
+
 #### 👨‍💻 Javascript Developer
-**Gain Solutions Ltd.** _(Nov 2020 - Present)_
+**Gain Solutions.** _(Nov 2020 - Present)_
 
 Gain Solutions Ltd. is a Norway-based software company that specializes in building web and mobile applications. As a JavaScript Developer, I work in a team of 20+ members including UI/UX, Front-end, Back-end, SQA, and Full-stack developers.
 
