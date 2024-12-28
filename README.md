@@ -55,7 +55,7 @@ I am a proficient Frontend Developer based in Dhaka, Bangladesh, with expertise 
 ### Companies I've worked for
 
 #### 👨‍💻 Software Specialist
-**Software Specialist** _(Nov 2023 - Present)_
+**SSL Wireless** _(Nov 2023 - Present)_
 
 - Led the development of responsive, secure fintech applications, leveraging React.js and Next.js. Enhanced user interfaces with dynamic, interactive financial dashboards to display critical data, fostering user engagement.
 - Curated a reusable code library for fintech modules, boosting efficiency and UI consistency. Adopted PWA strategies to improve application performance in low-connectivity environments, ensuring seamless offline access.
