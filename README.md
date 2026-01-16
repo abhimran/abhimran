@@ -1,110 +1,84 @@
-### Hi there! 👋
+### Hi there! 👋 I'm Abdullah Imran
 
-### Who I Am?
-I am a proficient Frontend Developer based in Dhaka, Bangladesh, with expertise in building modern and responsive web applications using cutting-edge technologies such as JavaScript, React, and GraphQL. My coding philosophy prioritizes writing clean, maintainable, and scalable code. I have a proven track record of delivering high-quality software solutions that exceed client expectations. Also I am constantly honing my skills to stay up-to-date with the latest industry trends.
+**Senior Frontend Software Engineer** based in **Dhaka, Bangladesh**.
 
-### What I'm doing?
+I specialize in architecting scalable, enterprise-grade applications using **React 19**, **Next.js 16**, and **TypeScript**. My focus lies in bridging the gap between complex backend logic and intuitive user interfaces, with deep expertise in **Monorepo architectures (Turborepo)**, **IoT ecosystems**, and **Real-time Surveillance Systems**.
 
-- 🏢 I'm currently working at Gain Solutions as a Javascript Developer.
-- 👨‍💻 My tech stack includes HTML, CSS, and JavaScript.
-- 🌍 I'm mostly active on Linkedin and the React community.
-- 📚 I'm currently learning about Backend technologies.
-- 👯 I'm looking to collaborate on React/Next Js projects.
+---
 
+### 🚀 What I'm currently working on
+- 🏢 **Software Specialist at SSL Wireless:** Leading frontend architecture for massive-scale surveillance and cold storage management systems.
+- 🏗️ **Architecture:** Building zero-config Monorepos and implementing Micro-frontend patterns.
+- ⚡ **Tech Focus:** Pushing the boundaries of **Next.js 16 (App Router)**, **Server Actions**, and **WebSocket** real-time data visualization.
+- 🤝 **Collaboration:** I'm looking to collaborate on Open Source projects involving **React 19**, **IoT Dashboards**, or **Headless UI** libraries.
 
-### What my skill set looks like?
+---
 
-#### 📜 Languages
-- JavaScript (ES6+)
-- TypeScript
-- HTML
-- CSS
+### 🛠️ Tech Stack
 
-#### 🔬 Frameworks/Libraries 
-- React.js
-- Redux
-- Next.js
-- Apollo Client
-- React Bootstrap
-- Material UI
-- Ant Design
-- Tailwind CSS
+**Languages & Core**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-#### 💾 Databases  
-- MongoDB
-- Firebase
+**Frontend Frameworks & Libraries**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
-#### 📁 Tools 
-- Git
-- GitHub
-- VS Code
-- CodePen
-- CodeSandbox
-- Netlify
-- Vercel
-- Firebase
+**Styling & UI**
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
-### What's interesting about me?
+**Build, Architecture & DevOps**
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-- 😎 I am an avid traveler and I like to enjoy immersing myself in different cultures and experiences.
-- 🧐 I have a keen eye for design and am passionate about creating visually appealing interfaces that enhance the user experience.
-- ✍️ I love to write poems and short stories.
-- ⏱️ I'm a workaholic and drink a lot of coffee ☕.
-- 😅 I just can't resist the urge to explore new technologies released in the React ecosystem.
+**Testing & Quality**
+![Vitest](https://img.shields.io/badge/-Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
-### Companies I've worked for
+---
+
+### 💼 Professional Experience
 
 #### 👨‍💻 Software Specialist
 **SSL Wireless** _(Nov 2023 - Present)_
-
-- Led the development of responsive, secure fintech applications, leveraging React.js and Next.js. Enhanced user interfaces with dynamic, interactive financial dashboards to display critical data, fostering user engagement.
-- Curated a reusable code library for fintech modules, boosting efficiency and UI consistency. Adopted PWA strategies to improve application performance in low-connectivity environments, ensuring seamless offline access.
-- Pioneered the integration of AI-based face recognition for robust user enrollment and authentication within the fintech ecosystem. This initiative not only enhanced security measures but also streamlined the user verification process, aligning with privacy standards.
-- Collaborated closely with data and backend teams to implement these advanced features, contributing to a secure, intuitive user experience in financial transactions and operations.
+*Leading frontend strategy for enterprise IoT and surveillance ecosystems.*
+- **SSLSentinel (Surveillance Platform):** Architected a zero-config **Turborepo** monorepo sharing 40% of code across 6 production apps. Engineered a WebSocket-powered incident dashboard with sub-second latency and **HLS.js** video streaming.
+- **Cold Storage Management System:** Built a high-performance **Next.js 16** application using **Server Actions** and **MFA** security flows. Implemented real-time temperature monitoring using **Recharts** and **TanStack Query**.
 
 #### 👨‍💻 Associate Software Engineer
-**Apsis Solutions Ltd.** _(May 2023 - November 2023)_
-
-- Developed custom user interfaces for CRM systems using React js and Next js focusing on user experience and ease of use.
-- Implemented CRM dashboard with dynamic and interactive visualizations to present customer data.
-- Built and maintained reusable code libraries for future use, improving development efficiency and consistency.
-- Utilized progressive web app (PWA) techniques to enable offline functionality and improve load time for the CRM system.
-- Worked closely with the data team to visualize customer analytics on CRM, enabling data-driven business decisions.
+**Apsis Solutions Ltd.** _(May 2023 - Nov 2023)_
+- Developed user-friendly CRM interfaces with React.js and Next.js, cutting support ticket resolution time by 15%.
+- Implemented interactive data-rich dashboards to enhance real-time decision-making for clients.
 
 #### 👨‍💻 Javascript Developer
-**Gain Solutions.** _(Nov 2020 - Present)_
+**Gain Solutions** _(Nov 2020 - May 2023)_
+- Designed a reusable component library from scratch that powered three production apps.
+- Optimized API performance using GraphQL and Apollo Client, reducing data overhead by 20%.
 
-Gain Solutions Ltd. is a Norway-based software company that specializes in building web and mobile applications. As a JavaScript Developer, I work in a team of 20+ members including UI/UX, Front-end, Back-end, SQA, and Full-stack developers.
+---
 
-- Designed a component library from scratch that formed three production apps.
-- Worked on the functionality in the production app, where I used React, GraphQL, and Apollo Client.
-- Successfully implemented finding properties using Google Maps.
-- Fetched data from the backend through GraphQL API using Apollo Client and prepared the data for users to see and make create, update, and delete operations.
-- Collaborated with the scrum team to translate client requirements.
-- Improved product quality by code reviews and collaborating with QA.
-- Worked with a team that follows Agile methodology. Tasks are divided by weekly sprints. Following day-to-day scrum with the Scrum Master.
+### ⚡ What's interesting about me?
 
-#### 🖥 Junior Web Designer - Internship
-**Creative IT Institute** _(Jan 2020 - Apr 2020)_
+- 😎 I am an avid traveler; immersing myself in different cultures fuels my creativity.
+- 🧐 I have a keen eye for design—I don't just write code, I craft experiences.
+- ✍️ I love to write poems and short stories in my downtime.
+- ☕ I'm a workaholic fueled by premium coffee.
+- 😅 I have an irresistible urge to explore every new feature released in the React ecosystem (currently obsessed with React 19 Server Components!).
 
-As a Junior Web Designer, I worked with a team of 16 members and provided 24/7 support to all batch students. I also contributed to the company's own ThemeForest template design platform.
+### 📝 Articles I have written
 
-### Articles I have written 
+- [Object Destructuring in JavaScript](https://medium.com/swlh/object-destructuring-in-javascript-c905fc676501)
+- [10 Things You Should Know About JSX](https://medium.com/swlh/10-things-you-should-know-about-jsx-15472fd3f68)
+- [Understanding Hoisting in JavaScript](https://medium.com/swlh/understanding-hoisting-in-javascript-b82c3fde978d)
 
- - [Object Destructuring in JavaScript](https://medium.com/swlh/object-destructuring-in-javascript-c905fc676501)
- - [10 Things You Should Know About JSX](https://medium.com/swlh/10-things-you-should-know-about-jsx-15472fd3f68)
- - [Understanding Hoisting in JavaScript](https://medium.com/swlh/understanding-hoisting-in-javascript-b82c3fde978d)
- 
- ### Connect with me
- 
+---
+
+### 📫 Connect with me
+
 <div align="left">
 <a href="https://github.com/abhimran" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/abhimrann" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/abhimran/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/abhimran/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="mailto:abhimrann@gmail.com">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
-</div> 
+</div>
